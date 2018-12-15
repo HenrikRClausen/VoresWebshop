@@ -2,4 +2,4 @@
 
 Billeder til produkter og anden grafik skal lægges her.
 
-Her er en linje mere for at se på Blame-funktionen.
+De skal flyttes eller kopieres til en mediemappe i Visual Studio projektmappen.
