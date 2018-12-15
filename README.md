@@ -1,5 +1,6 @@
 # Noter, nyheder, spørgsmål
-Denne fil er til at notere, hvad vi har gjort hvornår - hvorfor, og hvad der forventes.
+Denne **ReadMe** er til at notere, hvad vi har gjort hvornår - hvorfor, og hvad der forventes.
+Normalt vil en ReadMe være om projektets konkrete brug - men i dette tilfælde er det processen, der er projektet.
 
 ## Noter og nyheder
 Diverse noter om fremskridt og ændringer.
