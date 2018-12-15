@@ -14,3 +14,4 @@ Diverse noter om fremskridt og ændringer.
 Ting at afgøre i fællesskab
 
 * Flytte Visual Studio projektet til en undermappe
+* Siden ReadMe.md for hver mappe vises automatisk, kunne det være fornuftigt at organisere mapper omkring det. 
