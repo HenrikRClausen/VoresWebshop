@@ -1,6 +1,6 @@
 # Noter og nyheder
 
-Denne fil er til at notere, hvad vi har gjort (og hvorfor).
+Denne fil er til at notere, hvad vi har gjort hvornår - hvorfor, og hvad der forventes.
 
 15. december: 
 * Omskrev database oplægget til .md format. Se og kommenter!
