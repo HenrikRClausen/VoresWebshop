@@ -2,50 +2,48 @@
 ### Kalita
 ### 04-1210
 
-## Kompakt håndkværn i retrodesign fra Kalita
+### Kompakt håndkværn i retrodesign fra Kalita
 ![Her burde være et billede...](../Billeder/Produktgrafik/Kalitagrinderkh-3.w293.h293.fill.jpg "Fin kaffekværn!")
 
-Kalita Kaffekværn KH-3
-445,00 DKK (inkl. moms)
- Kalita
+* Kalita Kaffekværn KH-3
+* 445,00 DKK (inkl. moms)
+* Kalita
 
 Kompakt kaffekværn fra japanske Kalita. Der er ikke noget bedre end friskkværnet kaffe, og med denne håndkværn er der ingen undskyldning for ikke at bruge friskkværnet kaffe til din sorte håndbryggede kaffe. 
-
 Kroppen er udført i smukt træ, du kan indstille kværnen til at ramme den formalingsgrad, du skal bruge. Du kan cirka fylde 35 gram kaffe i øverste beholder, og fylder du op undervejs, er der plads til cirka 55 gram i beholderen, du kværner ned i.
 ###########################################################################
-Hario Skerton Kaffekværn MSCS-2TB
-Hario
-05-0901
 
-Lækker håndkværn med keramiske kværnblade.
-![Her burde være et billede...](../Billeder/Produktgrafik/Kalitagrinderkh-3.w293.h293.fill.jpg "Fin kaffekværn!")
+## Hario Skerton Kaffekværn MSCS-2TB
+### Hario
+### 05-0901
 
-hario_skerton_stor.w293.h293.fill.jpg
+### Lækker håndkværn med keramiske kværnblade.
+![Her burde være et billede...](../Billeder/Produktgrafik/hario_skerton_stor.w293.h293.fill.jpg "Fin kaffekværn!")
 
 ***************************************************************************
-Hario Skerton Kaffekværn MSCS-2TB
-238,95 DKK 365,00 DKK
-(inkl. moms)
- Hario
+* Hario Skerton Kaffekværn MSCS-2TB
+* 238,95 DKK 
+* 365,00 DKK (inkl. moms)
+* Hario
 
-Håndkværn fra japanske Hario med keramiske kværnblade.
+### Håndkværn fra japanske Hario med keramiske kværnblade.
 Mal dine bønner i hånden med denne smukke kværn. Du fylder bønnerne i kværnen for oven i kammeret, der er lavet i slagfast, skridsikkert plast, der sørger for, at kværnen ikke smutter fra dig. Alle metaldele er produceret i rustfrit stål, og de keramiske kværnblade giver dig en ensartet formalingsgrad, der er helt i top.
 Når du kværner kaffe i hånden, udvikler der kaffen ikke lige så meget varme som ved en elektronisk kværn. Aromastofferne bliver derfor bedre bevaret, og eftersom det er dine egne kræfter du skal bruge, kværnes der sjældent for meget. Skulle det ske, eller vil du gerne have kværnet kaffen på forhånd, kan du erstatte kværndelen med det medfølgende tætsluttende låg. Der er plads til 100 g kaffe i kværnen.
 ###########################################################################
-## Hario Slim Kaffekværn MSS-1B
-Hario
-05-0902
 
-Lille håndkværn fra Hario, der er perfekt, hvis du skal have kaffe på farten.
+## Hario Slim Kaffekværn MSS-1B
+### Hario
+### 05-0902
+
+### Lille håndkværn fra Hario, der er perfekt, hvis du skal have kaffe på farten.
 
 ![Her burde være et billede...](../Billeder/Produktgrafik/hario_slim_grinder_stor.w293.h293.fill.jpg "Fin kaffekværn!")
 
 ***************************************************************************
-Hario Slim Kaffekværn MSS-1B
-Produktet er udsolgt.
-295,00 DKK
-(inkl. moms)
- Hario
+* Hario Slim Kaffekværn MSS-1B
+* Produktet er udsolgt.
+* 295,00 DKK (inkl. moms)
+* Hario
 
 Lille håndkværn fra japanske Hario, der med sine keramiske, koniske kværnknive leverer en uovertruffen formalingsgrad. På Hario Slim kan du kværne ca. 24 g kaffe af gangen, og den kompakte størrelse sikrer dig masser af plads i kufferten. Vi har flere kunder, der bruger den på forretningsrejse, for at være sikre på, at de kan få en ordentlig kop kaffe, når de overnatter på hotel. Hario Slimm er også perfekt til turen i ødemarken og de 24 gram kaffe, kan du enten bruge i en lille stempelkande, i din Aeropress eller til V60 kaffe
 Hario har lavet en lille demonstration af kværnen, som du kan se nedenfor.
