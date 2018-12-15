@@ -3,7 +3,7 @@
 ### 04-1210
 
 ### Kompakt håndkværn i retrodesign fra Kalita
-![Her burde være et billede...](../Billeder/Produktgrafik/Kalitagrinderkh-3.w293.h293.fill.jpg "Fin kaffekværn!")
+![Her burde være et billede...](../../Billeder/Produktgrafik/Kalitagrinderkh-3.w293.h293.fill.jpg "Fin kaffekværn!")
 
 * Kalita Kaffekværn KH-3
 * 445,00 DKK (inkl. moms)
@@ -18,7 +18,7 @@ Kroppen er udført i smukt træ, du kan indstille kværnen til at ramme den form
 ### 05-0901
 
 ### Lækker håndkværn med keramiske kværnblade.
-![Her burde være et billede...](../Billeder/Produktgrafik/hario_skerton_stor.w293.h293.fill.jpg "Fin kaffekværn!")
+![Her burde være et billede...](../../Billeder/Produktgrafik/hario_skerton_stor.w293.h293.fill.jpg "Fin kaffekværn!")
 
 ***************************************************************************
 * Hario Skerton Kaffekværn MSCS-2TB
@@ -37,7 +37,7 @@ Når du kværner kaffe i hånden, udvikler der kaffen ikke lige så meget varme 
 
 ### Lille håndkværn fra Hario, der er perfekt, hvis du skal have kaffe på farten.
 
-![Her burde være et billede...](../Billeder/Produktgrafik/hario_slim_grinder_stor.w293.h293.fill.jpg "Fin kaffekværn!")
+![Her burde være et billede...](../../Billeder/Produktgrafik/hario_slim_grinder_stor.w293.h293.fill.jpg "Fin kaffekværn!")
 
 ***************************************************************************
 * Hario Slim Kaffekværn MSS-1B
@@ -54,7 +54,7 @@ Comandante
 
 Håndkværn med koniske stålknive - pakket ind i amerikansk kirsebærtræ
 
-![Her burde være et billede...](../Billeder/Produktgrafik/c40cherry1.w293.h293.fill.jpg "Fin kaffekværn!")
+![Her burde være et billede...](../../Billeder/Produktgrafik/c40cherry1.w293.h293.fill.jpg "Fin kaffekværn!")
 
 ***************************************************************************
 Comandante C40 Nitro Blade Håndkværn - American Cherry
@@ -73,7 +73,7 @@ Hario
 
 Hario Mini-Slim Pro er en forbedret udgave af den lille Slim håndkværn fra japanske Hario, denne udgave er i flot sort finish.
 
-![Her burde være et billede...](../Billeder/Produktgrafik/Hario-Slim-Pro-Black.w293.h293.fill.jpg "Fin kaffekværn!")
+![Her burde være et billede...](../../Billeder/Produktgrafik/Hario-Slim-Pro-Black.w293.h293.fill.jpg "Fin kaffekværn!")
 
 ***************************************************************************
 Hario Slim Kaffekværn Pro Sort MMSP-1-B
@@ -87,7 +87,7 @@ Comandante
 05-1105
 Håndkværn med koniske stålknive - pakket ind i zebratræ
 
-![Her burde være et billede...](../Billeder/Produktgrafik/comandante-c40-nitro-blade-zebra.w293.h293.fill.jpg "Fin kaffekværn!")
+![Her burde være et billede...](../../Billeder/Produktgrafik/comandante-c40-nitro-blade-zebra.w293.h293.fill.jpg "Fin kaffekværn!")
 
 ***************************************************************************
 
