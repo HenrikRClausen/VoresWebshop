@@ -1,13 +1,12 @@
-Kalita Kaffekværn KH-3
-Kalita
-04-1210
+## Kalita Kaffekværn KH-3
+### Kalita
+### 04-1210
 
-Kompakt håndkværn i retrodesign fra Kalita
-***************************************************************************
-Kalitagrinderkh-3.w293.h293.fill.jpg
+## Kompakt håndkværn i retrodesign fra Kalita
+![Her burde være et billede...](../Billeder/Produktgrafik/Kalitagrinderkh-3.w293.h293.fill.jpg "Fin kaffekværn!")
+
 Kalita Kaffekværn KH-3
-445,00 DKK
-(inkl. moms)
+445,00 DKK (inkl. moms)
  Kalita
 
 Kompakt kaffekværn fra japanske Kalita. Der er ikke noget bedre end friskkværnet kaffe, og med denne håndkværn er der ingen undskyldning for ikke at bruge friskkværnet kaffe til din sorte håndbryggede kaffe. 
@@ -19,6 +18,8 @@ Hario
 05-0901
 
 Lækker håndkværn med keramiske kværnblade.
+![Her burde være et billede...](../Billeder/Produktgrafik/Kalitagrinderkh-3.w293.h293.fill.jpg "Fin kaffekværn!")
+
 hario_skerton_stor.w293.h293.fill.jpg
 
 ***************************************************************************
@@ -31,12 +32,14 @@ Håndkværn fra japanske Hario med keramiske kværnblade.
 Mal dine bønner i hånden med denne smukke kværn. Du fylder bønnerne i kværnen for oven i kammeret, der er lavet i slagfast, skridsikkert plast, der sørger for, at kværnen ikke smutter fra dig. Alle metaldele er produceret i rustfrit stål, og de keramiske kværnblade giver dig en ensartet formalingsgrad, der er helt i top.
 Når du kværner kaffe i hånden, udvikler der kaffen ikke lige så meget varme som ved en elektronisk kværn. Aromastofferne bliver derfor bedre bevaret, og eftersom det er dine egne kræfter du skal bruge, kværnes der sjældent for meget. Skulle det ske, eller vil du gerne have kværnet kaffen på forhånd, kan du erstatte kværndelen med det medfølgende tætsluttende låg. Der er plads til 100 g kaffe i kværnen.
 ###########################################################################
-Hario Slim Kaffekværn MSS-1B
+## Hario Slim Kaffekværn MSS-1B
 Hario
 05-0902
 
 Lille håndkværn fra Hario, der er perfekt, hvis du skal have kaffe på farten.
-hario_slim_grinder_stor.w293.h293.fill.jpg
+
+![Her burde være et billede...](../Billeder/Produktgrafik/hario_slim_grinder_stor.w293.h293.fill.jpg "Fin kaffekværn!")
+
 ***************************************************************************
 Hario Slim Kaffekværn MSS-1B
 Produktet er udsolgt.
@@ -53,7 +56,8 @@ Comandante
 
 Håndkværn med koniske stålknive - pakket ind i amerikansk kirsebærtræ
 
-c40cherry1.w293.h293.fill.jpg
+![Her burde være et billede...](../Billeder/Produktgrafik/c40cherry1.w293.h293.fill.jpg "Fin kaffekværn!")
+
 ***************************************************************************
 Comandante C40 Nitro Blade Håndkværn - American Cherry
 1.795,00 DKK
@@ -70,7 +74,9 @@ Hario
 05-0904
 
 Hario Mini-Slim Pro er en forbedret udgave af den lille Slim håndkværn fra japanske Hario, denne udgave er i flot sort finish.
-Hario-Slim-Pro-Black.w293.h293.fill.jpg
+
+![Her burde være et billede...](../Billeder/Produktgrafik/Hario-Slim-Pro-Black.w293.h293.fill.jpg "Fin kaffekværn!")
+
 ***************************************************************************
 Hario Slim Kaffekværn Pro Sort MMSP-1-B
 395,00 DKK
@@ -82,7 +88,9 @@ Comandante C40 Nitro Blade Håndkværn - Zebra
 Comandante
 05-1105
 Håndkværn med koniske stålknive - pakket ind i zebratræ
-comandante-c40-nitro-blade-zebra.w293.h293.fill.jpg
+
+![Her burde være et billede...](../Billeder/Produktgrafik/comandante-c40-nitro-blade-zebra.w293.h293.fill.jpg "Fin kaffekværn!")
+
 ***************************************************************************
 
 Comandante C40 Nitro Blade Håndkværn - Zebra
