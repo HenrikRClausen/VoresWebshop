@@ -15,3 +15,4 @@ Ting at afgøre i fællesskab
 
 * Flytte Visual Studio projektet til en undermappe
 * Siden ReadMe.md for hver mappe vises automatisk, kunne det være fornuftigt at organisere mapper omkring det. 
+* Jeg er gået lidt amok i, hvordan vi bedst strukturerer dokumentationen. Kommentarer og eventuelle krav om kvajebajere vil blive overvejet - heldigvis kan alt jo rulles tilbage :)
