@@ -2,7 +2,6 @@
 [Flere noter her]
 
 ## Databasens struktur
-Dette er en kopi af Chris' oplæg.
 
 ### Tabel BRUGER
 
