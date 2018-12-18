@@ -259,3 +259,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Supplerende/MVC Model Creation/MVC Model creation.vpp.bak_001d
+/Supplerende/MVC Model Creation/MVC Model creation.vpp.bak_002d
