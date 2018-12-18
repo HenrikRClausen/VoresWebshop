@@ -3,7 +3,7 @@
 
 ## Databasens struktur
 
-### Tabel BRUGER
+### Tabel BRUGER (Henrik)
 
 Navn | Type | Obligatorisk | Kommentar
 --- | --- | --- | ---
@@ -18,7 +18,7 @@ Navn | Type | Obligatorisk | Kommentar
 **E-post** | Tekst | Ja | RegEx til format
 **Oprettet** | Dato | Ja | Autogenereret
 
-### Tabel PRODUKT
+### Tabel PRODUKT (Chris)
 Navn | Type | Obligatorisk | Kommentar
 --- | --- | --- | ---
 **ProduktID** | Int | Ja | Autogenereret
@@ -30,7 +30,7 @@ Navn | Type | Obligatorisk | Kommentar
 **Billede** | Byte[] | | 
 **Oprettet** | Dato | | Sidste ændring
 
-### Tabel ORDRE
+### Tabel ORDRE (Stefan)
 Navn | Type | Obligatorisk | Kommentar
 --- | --- | --- | ---
 **OrdreID** | Int | Ja | Autogenereret
@@ -40,10 +40,10 @@ Navn | Type | Obligatorisk | Kommentar
 **Afsendt** | Dato ||
 **Afsluttet** | Dato ||
 
-### Tabel ORDRE_PRODUKT
+### Tabel ORDRE_PRODUKT (Michael)
 Navn | Type | Obligatorisk | Kommentar
 --- | --- | --- | ---
-**OrdreProduktID** | int | Ja | Audogenereret
+**OrdreProduktID** | int | Ja | Autogenereret
 **OrdreID** | Int | Ja | Fremmed nøgle
 **ProduktID** | Int | Ja | Fremmed nøgle
 **Oprettet** | Dato | Ja | Autogenereret
