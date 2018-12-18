@@ -16,5 +16,8 @@ Normalt vil en ReadMe være om projektets konkrete brug - men i dette tilfælde 
 * Afklaring og forenkling af databasen. 
 * Typer, obligatorisk og andre noter tilføjet.
 
+18. december (Stefan og Henrik)
+* En snak med Jens viste, at Ordre_Produkt databasen er overflødig. Entity håndterer Mange<->Mange relationer på en elegant måde, vi skal blot tilføje elementer til lister i C#, f.eks. på Bestillinger.
+
 ## Åbne spørgsmål
 * Flytte Visual Studio projektet til en undermappe
