@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace VoresWebshop.Models {
     public class OrdreLinie {
-        public int OrdreProduktID { get; set; }
+        public int OrdreLinieID { get; set; }
         public int OrdreID { get; set; }
         public int ProduktID { get; set; }
         public DateTime Oprettet { get; set; }
