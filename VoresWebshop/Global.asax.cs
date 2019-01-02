@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using VoresWebshop.Models;
+using System.Data.Entity;
 
 namespace VoresWebshop
 {
@@ -11,6 +13,9 @@ namespace VoresWebshop
     {
         protected void Application_Start()
         {
+            System.Data.Entity.Database.SetInitializer<VoresWebshopDb>(
+                new VoresWebshopDbInitializer());
+
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }

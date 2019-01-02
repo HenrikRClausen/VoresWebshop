@@ -1,0 +1,89 @@
+﻿@model IEnumerable<VoresWebshop.Models.Bruger>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BrugerRolle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fornavn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Efternavn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Adresse)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Postnummer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.By)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefon)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ePost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Oprettet)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BrugerRolle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fornavn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Efternavn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Adresse)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Postnummer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.By)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ePost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Oprettet)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.BrugerID }) |
+                @Html.ActionLink("Details", "Details", new { id=item.BrugerID }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.BrugerID })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

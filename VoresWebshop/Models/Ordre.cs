@@ -13,6 +13,6 @@ namespace VoresWebshop.Models
         public DateTime Godkendt { get; set; }
         public DateTime Afsendt { get; set; }
         public DateTime Afsluttet { get; set; }
-        public List<OrdreLinie> OrdreLinie { get; set; }
+        public virtual ICollection<OrdreLinie> OrdreLinier { get; set; }
     }
 }
