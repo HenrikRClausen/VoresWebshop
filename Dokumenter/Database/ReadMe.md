@@ -1,9 +1,6 @@
-# Om Databasen til VoresWebshop
-[Flere noter her]
+# Databasestruktur til VoresWebshop
 
-## Databasens struktur
-
-### Tabel BRUGER (Henrik)
+### Tabel BRUGER
 
 Navn | Type | Obligatorisk | Kommentar
 --- | --- | --- | ---
@@ -18,7 +15,7 @@ Navn | Type | Obligatorisk | Kommentar
 **E-post** | Tekst | Ja | RegEx til format: ^[A-Z0-9._%+-]+@(?:[A-Z0-9-]+\.)+[A-Z]{2,}$
 **Oprettet** | Dato | Ja | Autogenereret
 
-### Tabel PRODUKT (Chris)
+### Tabel PRODUKT
 Navn | Type | Obligatorisk | Kommentar
 --- | --- | --- | ---
 **ProduktID** | Int | Ja | Autogenereret
@@ -30,7 +27,7 @@ Navn | Type | Obligatorisk | Kommentar
 **Billede** | Byte[] | | 
 **Oprettet** | Dato | | Sidste ændring
 
-### Tabel ORDRE (Stefan)
+### Tabel ORDRE
 Navn | Type | Obligatorisk | Kommentar
 --- | --- | --- | ---
 **OrdreID** | Int | Ja | Autogenereret
@@ -40,7 +37,7 @@ Navn | Type | Obligatorisk | Kommentar
 **Afsendt** | Dato ||
 **Afsluttet** | Dato ||
 
-### Tabel ORDRE_PRODUKT (Michael)
+### Tabel ORDRE_PRODUKT
 Navn | Type | Obligatorisk | Kommentar
 --- | --- | --- | ---
 **OrdreProduktID** | int | Ja | Autogenereret
