@@ -21,7 +21,9 @@ namespace VoresWebshop.Data {
 
     public static class VoresWebshopDbInitializer {
         public static void Initialize(IServiceProvider serviceProvider) {
-            using (var context = new VoresWebshopDb)
+            using (var context = new VoresWebshopDb()) {
+
+                }
         }
     }
 
