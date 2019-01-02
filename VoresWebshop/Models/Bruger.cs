@@ -15,6 +15,5 @@ namespace VoresWebshop.Models {
         public string Telefon { get; set; }
         public string ePost { get; set; }
         public DateTime Oprettet { get; set; }
-        public String STEFAN_TEST { get; set; }
     }
-    }
+}
